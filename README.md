@@ -4,7 +4,15 @@
 
 ## Problem Statement
 
-"To analyze and visualize the distribution, growth, and operational details of Tesla facilities globally, enabling data-driven decision-making for resource allocation, network expansion, and performance optimization."
+To analyze and visualize the distribution, growth, and operational details of Tesla facilities globally, enabling data-driven decision-making for resource allocation, network expansion, and performance optimization.
+
+The objective is to build an interactive dashboard that provides insights into Tesla’s global infrastructure, including the distribution of Superchargers, Stores, and Service Centers across regions and facility growth over time. The dashboard aims to answer the following key questions:
+
+1. What is the overall count and proportion of facility types (e.g., Superchargers, Stores, facility count)?
+2. How are Tesla facilities distributed geographically across regions?
+3. What trends can be observed in the growth of Tesla’s infrastructure over the years?
+4. Which regions or facility types dominate the network, and where is Tesla underrepresented?
+5. How does the facility distribution contribute to Tesla’s operational goals?
 
 ### Steps followed 
 
